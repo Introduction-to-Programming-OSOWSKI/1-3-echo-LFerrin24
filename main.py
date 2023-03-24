@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 def echo(x):
-    return echo("hello" * 5)
+    return (str(x) * 5)
 
 
 
